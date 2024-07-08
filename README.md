@@ -6,3 +6,6 @@ This project demonstrates how to Dockerize a React application using Docker and 
 
 - Docker
 - Docker Compose
+
+```bash
+docker-compose up --build                     
